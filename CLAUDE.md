@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Environment
+
+Running on Windows with WSL (Ubuntu). Always use `zsh` for shell commands — run them inside WSL, not PowerShell or CMD.
+
 ## Commands
 
 ```bash
