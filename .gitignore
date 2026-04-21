@@ -6,3 +6,5 @@ next-env.d.ts
 bun.lock
 bun.lockb
 .claude
+settings.local.json
+.env
